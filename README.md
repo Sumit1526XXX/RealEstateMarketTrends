@@ -33,3 +33,13 @@ An interactive Real Estate Market Trends Dashboard analyzing property prices, re
 - **Excel** for dataset source
 
 ---
+
+## 📁 Project Files
+
+| File Name | Description |
+|-----------|-------------|
+| `Real Estate Market Trends.pbix` | Power BI dashboard file |
+| `Homes for Sale and Real Estate.xlsx` | Dataset used |
+| `Real Estate Market Trends.png`  | Dashboard screenshot |
+
+---
